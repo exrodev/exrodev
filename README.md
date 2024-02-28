@@ -6,10 +6,10 @@ I'm exro
 ## Technologies 🖥️
 
 ### I currently use
-![https://skillicons.dev/icons?i=c,cpp,neovim,java,idea,maven,github,cloudflare,debian,linux,windows&perline=6](https://skillicons.dev)
+[![I currently use](https://skillicons.dev/icons?i=c,cpp,neovim,java,idea,maven,github,cloudflare,debian,linux,windows&perline=6)](https://skillicons.dev)
 
 ### I have used
-![https://skillicons.dev/icons?i=html,css,js,c#,mongodb,mysql,redis](https://skillicons.dev)
+[![I have used](https://skillicons.dev/icons?i=html,css,js,c#,mongodb,mysql,redis)](https://skillicons.dev)
 
 ## Socials
 
